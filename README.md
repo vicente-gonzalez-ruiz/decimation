@@ -1,0 +1,2 @@
+# decimation
+Decimate arrays.
